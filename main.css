@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header_header{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 55px;
+}
+.heder_name{
+color: darkorange;
+}
+h2{
+    font-size: 55px;
+}
+.heder_a{
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-top: 15px;
+    color: black;
+}
+.header{
+    color: black;
+    gap: 35px;
+}
+.header_a{
+    color: darkorange;
+}
+.button{
+    color: white;
+    background-color: darkorange;
+    width: 150px;
+    height: 51px;
+    border-radius: 15px;
+    margin-top: -15px;
+    box-shadow: 50px 22px 40px 50px rgba(255, 104, 56, 0.19);
+}
+.button_booton{
+    color: white;
+    background-color: darkorange;
+    width: 120px;
+    height: 51px;
+    border-radius: 15px;
+    margin-top: 70px;
+    box-shadow: 50px 22px 40px 50px rgba(255, 104, 56, 0.19);  
+}
+.hider{
+    width: 350px;
+    font-size: 45px;
+}
+.div{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.roloc{
+    display: flex;
+    justify-content: space-around;
+}
+.hidir{
+    width: 250px;
+    margin-top: 20px;
+}
+.color{
+    display: flex;
+    justify-content: space-around;
+}
+.cloor{
+    margin-top: 300px;
+}
+.look{
+    display: flex;
+    justify-content: space-around;
+}
+.ytcyit{
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+}
+.a{
+    background-color: darkorange;
+    width: 50px;
+    height: 25px;
+    margin-top: 10px;
+}
+.nav{
+    width: 361px;
+    height: 50px;
+    background-color: aliceblue;
+    font-size: 25px;
+}
+.atyciy{
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    margin-top: -120px;
+}
+.p{
+    font-size: 10px;
+    padding: 20px;
+    width: 150px;
+}
+.nad{
+    display: flex;
+    justify-content: space-around;
+}
+.Group{
+    margin-top: 50px;
+}
+.kola{
+    margin-top: 35px;
+    margin: 15px;
+}
+.motorola{
+    width: 1170px;
+    height: 334px;
+    background-color: darkorange;
+    border-radius: 50px;
+    margin-left: 150px;
+}
+.mama{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    color: white;
+}
+.roma{
+    align-items: center;
+    margin-left: 302px;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.b{
+    color: darkorange;
+    width: 50px;
+    height: 35px; 
+    margin-left: -45px;  
+}
+.button_buton{
+    background-color: darkorange;
+    width: 80px;
+    height: 35px;
+    margin-top: 10px;
+    color: white;
+    border-radius: 10px;
+}
